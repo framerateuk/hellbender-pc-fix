@@ -1,0 +1,26 @@
+# Never commit anything from the game
+Hellbender/
+*.bin
+*.img
+*.iso
+*.cue
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.POD
+*.pod
+*.AVI
+*.avi
+*.HEL
+*.hel
+*.o
+data/
+__pycache__/
+*.SMK
+*.smk
+*.ogg
+*.wav
+*.zip
